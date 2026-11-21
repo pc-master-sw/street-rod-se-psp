@@ -1,0 +1,9 @@
+/.build/
+*.PBP
+*.elf
+*.prx
+*.o
+*.SAV
+*.sav
+/Save/
+/Game/
